@@ -3,6 +3,7 @@ Runs all individual trading apps in a seamless multi-page dashboard.
 """
 
 import streamlit as st
+from neo_api_client import NeoAPI
 
 # Configure multi-page navigation using Streamlit 1.36+ st.navigation
 pages = {
