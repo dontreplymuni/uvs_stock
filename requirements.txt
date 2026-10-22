@@ -5,4 +5,4 @@ plotly
 requests
 curl_cffi
 nsemine
-neo-api-client>=1.26.1
+kotakneoapi
